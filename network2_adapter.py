@@ -61,8 +61,6 @@ user_response = user_agreement()
 upgrade_update_packages(user_response)
 
 
-if success == 1:
-    realtek()
-    print("**************Success!!!**************")
-else:
-    handle_error("Failed to proceed. Ensure your connection is stable and try again.\nIf the problem persists, read the README file again. Thank you!")
+
+realtek()
+print("**************Success!!!**************")
