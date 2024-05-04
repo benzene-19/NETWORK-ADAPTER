@@ -1,6 +1,4 @@
-
-                 THIS IS INTENDED                 
-                      FOR THE 
+    REALTEK rtl-88XXAU WIRELESS NETWORK ADAPTER
 REALTEK rtl-88XXAU WIRELESS NETWORK ADAPTER
 
 DISCLAIMER:
